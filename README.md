@@ -1,0 +1,1 @@
+# react_typescript_customer_list
